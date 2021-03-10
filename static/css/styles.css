@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+
+.nav-link{
+    color: white;
+}
+
+#robinhood-sentiment-line{
+    max-width: 100%;
+    min-width: 75%;
+    max-height: 400px;
+    min-height: 100px;
+}
+
